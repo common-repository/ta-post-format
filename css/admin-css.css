@@ -1,0 +1,8 @@
+#ta_gallery_post_format, 
+#ta_video_post_format, 
+#ta_link_post_format, 
+#ta_quote_post_format, 
+#ta_status_post_format,
+#ta_audio_post_format{
+	display: none;
+}
